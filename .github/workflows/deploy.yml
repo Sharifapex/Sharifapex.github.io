@@ -20,6 +20,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0 # for posts' lastmod
+          submodules: true # required to pull in vendor assets (e.g. bootstrap)
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
