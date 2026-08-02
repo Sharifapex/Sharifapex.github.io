@@ -36,6 +36,9 @@ jobs:
       - name: Install npm dependencies
         run: npm install
 
+      - name: Build theme assets (generates _sass/vendors and assets/js/dist)
+        run: npm run build
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
