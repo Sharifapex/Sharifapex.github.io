@@ -4,9 +4,9 @@
   icon: "fab fa-telegram"
   url: "https://t.me/sharif_Apex"
 
-- type: phone
+- type: instagram
   icon: "fas fa-phone"
-  phone: "09904034424"
+  url: "https://www.instagram.com/apex.sharif?igsh=MWYyMnlmYmY3enB1dg=="
 
 - type: email
   icon: "fas fa-envelope"
