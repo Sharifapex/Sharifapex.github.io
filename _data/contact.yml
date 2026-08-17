@@ -1,17 +1,16 @@
-#  The contact options.
+# The contact options.
 
-- type: github
-  icon: "fab fa-github"
+- type: telegram
+  icon: "fab fa-telegram"
+  url: "https://t.me/sharif_Apex"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: phone
+  icon: "fas fa-phone"
+  url: "tel:09904034424"
 
 - type: email
   icon: "fas fa-envelope"
-  noblank: true # open link in current tab
-
-- type: rss
-  icon: "fas fa-rss"
+  url: "mailto:contact.sharifapex@gmail.com"
   noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
