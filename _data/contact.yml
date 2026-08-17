@@ -6,7 +6,7 @@
 
 - type: phone
   icon: "fas fa-phone"
-  url: "tel:09904034424"
+  phone: "09904034424"
 
 - type: email
   icon: "fas fa-envelope"
