@@ -5,8 +5,8 @@
   url: "https://t.me/sharif_Apex"
 
 - type: instagram
-  icon: "fas fa-phone"
-  url: "https://www.instagram.com/apex.sharif?igsh=MWYyMnlmYmY3enB1dg=="
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/apex.sharif/"
 
 - type: email
   icon: "fas fa-envelope"
