@@ -25,8 +25,11 @@ url: "https://sharifapex.github.io"
 github:
   username: Sharifapex # change to your GitHub username
 
+# No public Twitter/X account yet — leave blank to suppress the
+# twitter:site meta tag and avoid the "@twitter_username" placeholder.
+# If you create an account later, fill in the handle here (no @, no URL).
 twitter:
-  username: twitter_username # change to your Twitter username
+  username:
 
 social:
   # Change to your full name.
@@ -36,11 +39,9 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/Sharifapex # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://t.me/sharif_Apex
+    - https://www.instagram.com/apex.sharif/
+    - https://github.com/Sharifapex
 
 # Site Verification Settings
 webmaster_verifications:
